@@ -7,7 +7,7 @@ This project helps the **Early Eagles Badminton team** track and manage player a
 ## 📁 Project Structure
 
 ```
-/early-eagles-app
+/early-eagles
 ├── backend/           # ASP.NET Core Web API
 ├── frontend/          # React with Tailwind CSS
 └── README.md
